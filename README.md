@@ -6,3 +6,9 @@ The website is an attempt at a browser-based clone of popular PC game Minecraft.
 WebGL framework](https://github.com/cedricpinson/osgjs)).
 
 The website is written almost entirely in Javascript. It requires nothing more than a web browser to run. It will even run [here on GitHub](https://conlonj25.github.io) or on your phone!
+
+# Screenshots
+
+<img src="/Screenshots/screenshot1.png" alt="Screenshot 1" width="800"/>
+<img src="/Screenshots/screenshot2.png" alt="Screenshot 2" width="800"/>
+<img src="/Screenshots/screenshot3.png" alt="Screenshot 3" width="800"/>
